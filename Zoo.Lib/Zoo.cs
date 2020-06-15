@@ -12,5 +12,7 @@ namespace Zoo.Lib
         {
             EntranceFee = entranceFee;
         }
+
+
     }
 }
