@@ -13,6 +13,6 @@ namespace Zoo.Lib
             EntranceFee = entranceFee;
         }
 
-
+        // comment
     }
 }
